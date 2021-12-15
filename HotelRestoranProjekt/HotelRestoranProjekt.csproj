@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>HotelRestoranProjekt</RootNamespace>
     <AssemblyName>HotelRestoranProjekt</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -56,20 +57,63 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gosti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gosti.Designer.cs">
+      <DependentUpon>Gosti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Osoblje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Osoblje.Designer.cs">
+      <DependentUpon>Osoblje.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <Compile Include="Rezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rezervacije.Designer.cs">
+      <DependentUpon>Rezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobe.Designer.cs">
+      <DependentUpon>Sobe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Gosti.resx">
+      <DependentUpon>Gosti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Osoblje.resx">
+      <DependentUpon>Osoblje.cs</DependentUpon>
+    </EmbeddedResource>
+=======
+>>>>>>> main
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
+    <EmbeddedResource Include="Rezervacije.resx">
+      <DependentUpon>Rezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobe.resx">
+      <DependentUpon>Sobe.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -82,6 +126,35 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MngIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roomh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\osoblje.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\osobljee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gostt.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
