@@ -1,0 +1,7 @@
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.csproj.AssemblyReference.cache
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.Gosti.resources
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.MainForm.resources
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.Osoblje.resources
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.Rezervacije.resources
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.Sobe.resources
+C:\Users\38599\source\repos\dsimunovi\UPI_Projekt_INF21\HotelRestoranProjekt\obj\Debug\HotelRestoranProjekt.csproj.GenerateResource.cache
