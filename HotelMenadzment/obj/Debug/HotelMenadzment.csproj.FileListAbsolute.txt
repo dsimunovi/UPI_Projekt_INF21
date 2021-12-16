@@ -1,0 +1,15 @@
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\bin\Debug\HotelMenadzment.exe.config
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\bin\Debug\HotelMenadzment.exe
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\bin\Debug\HotelMenadzment.pdb
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.csproj.AssemblyReference.cache
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Form1.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Gosti.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.MainForm.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Osobljecs.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Properties.Resources.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Rezervacije.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.Sobe.resources
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.csproj.GenerateResource.cache
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.csproj.CoreCompileInputs.cache
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.exe
+C:\Users\Dajana\Desktop\HoteManagement\HotelMenadzment\obj\Debug\HotelMenadzment.pdb
